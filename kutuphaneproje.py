@@ -1,10 +1,3 @@
-#flask
-#oop zorunlu
-#kitap listesi(self.books listesi)
-#lineer arama algoritması (aranan kitapları yazarına veya kitap adına göre)
-#kitap ekleme, kitap silme(remove_book), isme göre arama, yazara göre arama,
-# tüm kitapları listele
-
 class Kitap:
 
     def __init__(self, isim, yazar, yil):
@@ -155,3 +148,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
