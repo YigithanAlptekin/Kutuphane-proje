@@ -1,2 +1,2 @@
-# K-t-phane-proje
+# Kutuphane-proje
 Python dilinde Kütüphane yönetim sistemi
